@@ -1,0 +1,18 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "virtualNetworks_HDInsightVnet_name": {
+            "value": "HDInsightVnet"
+        },
+        "networkSecurityGroups_HDInsightNSG_name": {
+            "value": "HDInsightNSG"
+        },
+        "subnets_default_name": {
+            "value": "default"
+        },
+        "securityRules_HdInsight_Internal_name": {
+            "value": "HdInsight_Internal"
+        }
+    }
+}
