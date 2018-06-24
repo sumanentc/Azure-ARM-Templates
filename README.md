@@ -3,4 +3,5 @@
 2. Crerate a Subnet inside Vnet
 3. To Create Network Security Group
 4. Assign Security rules in the Vnet
-3. TO Create HDINsight Spark Cluster inside the Vnet.
+5. To Create HDINsight Spark Cluster inside the Vnet.
+6. Customize the Spark Cluster using Script actions.
